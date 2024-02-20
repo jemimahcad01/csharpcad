@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\dotnet.csproj": {}
+    "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\project2\\dotnet.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\dotnet.csproj": {
+    "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\project2\\dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\dotnet.csproj",
+        "projectUniqueName": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\project2\\dotnet.csproj",
         "projectName": "dotnet",
-        "projectPath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\dotnet.csproj",
+        "projectPath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\project2\\dotnet.csproj",
         "packagesPath": "C:\\Users\\jemimahcad01\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\obj\\",
+        "outputPath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\project2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jemimahcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

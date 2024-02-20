@@ -1,3 +1,3 @@
 {
-    "dotnet.defaultSolution": "dotnet.sln"
+    "dotnet.defaultSolution": "project2/dotnet.sln"
 }
