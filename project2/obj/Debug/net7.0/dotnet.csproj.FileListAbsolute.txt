@@ -26,3 +26,17 @@ C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\project2\obj\Debug\net7.0\refint\d
 C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\project2\obj\Debug\net7.0\dotnet.pdb
 C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\project2\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
 C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\project2\obj\Debug\net7.0\ref\dotnet.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\bin\Debug\net7.0\dotnet.exe
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\bin\Debug\net7.0\dotnet.deps.json
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\bin\Debug\net7.0\dotnet.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\bin\Debug\net7.0\dotnet.pdb
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\refint\dotnet.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.pdb
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\project2\obj\Debug\net7.0\ref\dotnet.dll
