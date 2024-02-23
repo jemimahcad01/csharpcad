@@ -1,0 +1,14 @@
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.AssemblyInfoInputs.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.AssemblyInfo.cs
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.csproj.CoreCompileInputs.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\bin\Debug\net7.0\randampro.exe
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\bin\Debug\net7.0\randampro.deps.json
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\bin\Debug\net7.0\randampro.runtimeconfig.json
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\bin\Debug\net7.0\randampro.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\bin\Debug\net7.0\randampro.pdb
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\refint\randampro.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.pdb
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\randampro.genruntimeconfig.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\randampro\obj\Debug\net7.0\ref\randampro.dll
