@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>Online ornaments shop</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel ="icon" type="image/x-icon" href="images/design.png">
+	<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+
+
+
+</head>
+<body>
+	<div class="header">
+<div class="Homeheading">
+	<b><h1>Online Ornaments Shop</h1></b>
+</div>
+
+
+
+
+<div class="firstprofile">
+	<img src="https://i.postimg.cc/0NGgQHDp/profile.png">
+	
+	
+	
+	<select>
+	<option></option>
+	<option>Change password</option>
+	<option>Sign out</option>
+</select>
+</div>
+	
+
+
+</div>
+<div class="Homeheadingdescrp">
+	<p> To look elegant and which icing on you</p>
+</div> 
+
+<br>
+
+<hr>
+
+<br><br><br>
+
+<div class="indexalign">
+<ul>
+	<li><a href="home.html">HOME</a></li>
+	<li><a href="aboutus.html">ABOUT US</a></li>
+	<li><a href="ourservice.html">OUR SERVICE</a></li>
+    <li><a href="contactus.html">CONTACT US</a></li>
+</ul>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+<center>
+		<div class="search">
+		   <input type="text" class="search" placeholder="search">
+		   <button type="submit" class="searchButton">
+			 <i class="fa fa-search"></i>
+		  </button>
+		</div>
+	 </div>
+</center>
+
+<br><br><br><br><br><br><br><br><br><br><br>
+
+	
+<div class="swiperclass">
+	<div class="swiper">
+	<!-- Additional required wrapper -->
+	<div class="swiper-wrapper">
+	<!-- Slides -->
+	<div class="swiper-slide"><img src="https://i.postimg.cc/QNmB7P3V/plain.jpg" alt=""></div>
+    <div class="swiper-slide"><img src ="https://i.postimg.cc/xT71yVFj/spring.jpg" alt=""></div>
+    <div class="swiper-slide"><img src ="https://i.postimg.cc/ry7p5LHV/picture.jpg" alt=""></div>
+     ...
+	</div>
+	<!-- If we need pagination -->
+	<div class="swiper-pagination"></div>
+    <!-- If we need navigation buttons -->
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+  
+	<!-- If we need scrollbar -->
+	<div class="swiper-scrollbar"></div>
+    </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+	const swiper = new Swiper('.swiper',   {
+	// Optional parameters
+	direction: 'horizontal',
+	loop: true,
+	autoplay:{delay:1000,
+	pauseOnMouseEnter:true},
+	slicePerView:2,
+	
+	 
+	// If we need pagination
+	pagination: {
+	  el: '.swiper-pagination',
+	  clickable:true,
+	},
+
+
+  
+	// Navigation arrows
+	navigation: {
+	  nextEl: '.swiper-button-next',
+	  prevEl: '.swiper-button-prev',
+	},
+    
+
+	// And if we need scrollbar
+	scrollbar: {
+	  el: '.swiper-scrollbar',
+	},
+  });
+
+
+
+
+
+
+</script>
+</body>
+</html>
+

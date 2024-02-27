@@ -1,0 +1,14 @@
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.AssemblyInfoInputs.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.AssemblyInfo.cs
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.csproj.CoreCompileInputs.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.exe
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.deps.json
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.runtimeconfig.json
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\bin\Debug\net7.0\dmkfamilydisp.pdb
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\refint\dmkfamilydisp.dll
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.pdb
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\dmkfamilydisp.genruntimeconfig.cache
+C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\practice-03\dmkfamilydisp\obj\Debug\net7.0\ref\dmkfamilydisp.dll
