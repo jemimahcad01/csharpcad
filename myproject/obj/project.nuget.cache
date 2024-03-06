@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbY8mwZqPE0qtLs6lyZmazCwxY9Ir6AFiHr8AlMMd3Ir/xvbspbqsFeYTwce7F0EfipC7NQx7geYdS0NiAtlBQ==",
+  "dgSpecHash": "xb+F/AeBmnmCf38M5OzX71lGRrrNfWwSXEB+WE1EKX480TeJJNxhs6hWYquM4rgc0EjI9DzE/ewUTs35CUMQEA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\myproject.csproj",
+  "projectFilePath": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\myproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jemimahcad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\jemimahcad01\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.0\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.0.nupkg.sha512",

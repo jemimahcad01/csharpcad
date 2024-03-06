@@ -27,6 +27,24 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult aboutus()
+    {
+        return View();
+    }
+    public IActionResult ourservice()
+    {
+        return View();
+    }
+    public IActionResult login()
+    {
+        return View();
+    }
+
+
+      public IActionResult register()
+    {
+        return View();
+    }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
