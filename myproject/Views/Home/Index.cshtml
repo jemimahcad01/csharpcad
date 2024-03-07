@@ -1,7 +1,6 @@
 ﻿@{
     ViewData["Title"] = "index";
 }
-<span class="placeholder col-12 bg-info"></span>
 
 <!DOCTYPE html>
 <html>
@@ -9,51 +8,32 @@
 	<title>Online ornaments shop</title>
 	<link rel="stylesheet" type="text/css" href="styles.css">
     <link rel ="icon" type="image/x-icon" href="images/design.png">
-	<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
-/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
 
 </head>
 <body>
 	<div class="header">
 <div class="Homeheading">
-	<b><h1>Online Ornaments Shop</h1></b>
+	<div class="shadow p-3 bg-info mb-5 bg-body-tertiary rounded">
+	<center><b><h1>Online Ornaments Shop</h1></b></center>
+	</div>
 </div>
-
 <div class="firstprofile">
-	<img src="https://i.postimg.cc/0NGgQHDp/profile.png" sizes="10px" float=right>
-	
-	<select>
-	<option></option>
-	<option>Change password</option>
-	<option>Sign out</option>
-</select>
+	<img src="https://i.postimg.cc/0NGgQHDp/profile.png" width="30px">
 </div>
-	
-
 </div>
 <div class="Homeheadingdescrp">
-	<p> To look elegant and which icing on you</p>
+<center><p>To look elegant and which icing on you</p></center>
 </div> 
-
-<br>
-
 <hr>
-
 <center>
 		<div class="search">
-		   <input type="text" class="search" placeholder="search">
+		   <input type="text" placeholder="search">
 		   <button type="submit" class="searchButton">
-			 <i class="fa fa-search"></i>
-		  </button>
+		    </button>
 		</div>
-	 </div>
 </center>
 
-<br><br><br>
-
-	
 <div class="swiperclass">
 	<div class="swiper">
 	<!-- Additional required wrapper -->
@@ -75,7 +55,6 @@
     </div>
 </div>
 
-
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 <script>
 	const swiper = new Swiper('.swiper',   {
@@ -93,8 +72,6 @@
 	  clickable:true,
 	},
 
-
-  
 	// Navigation arrows
 	navigation: {
 	  nextEl: '.swiper-button-next',
@@ -107,10 +84,6 @@
 	  el: '.swiper-scrollbar',
 	},
   });
-
-
-
-
 
 
 </script>

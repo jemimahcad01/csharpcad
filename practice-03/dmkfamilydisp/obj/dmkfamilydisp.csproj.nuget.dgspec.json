@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj": {}
+    "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj": {
+    "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj",
+        "projectUniqueName": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj",
         "projectName": "dmkfamilydisp",
-        "projectPath": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj",
+        "projectPath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\dmkfamilydisp.csproj",
         "packagesPath": "C:\\Users\\jemimahcad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\obj\\",
+        "outputPath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\practice-03\\dmkfamilydisp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jemimahcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"
