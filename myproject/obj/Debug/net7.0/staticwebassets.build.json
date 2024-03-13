@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TraFSmxA85nJYYdpMAmsdn9p4LzxJIxucA9XqYwwK/o=",
+  "Hash": "my27KGxiSDiTlVrENWJU4bpbJxtjiJxMnrYFe2R5kHs=",
   "Source": "myproject",
   "BasePath": "_content/myproject",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jpg",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/images.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jpg"
     },
     {
       "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\js\\site.js",
