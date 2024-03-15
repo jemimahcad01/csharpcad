@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "my27KGxiSDiTlVrENWJU4bpbJxtjiJxMnrYFe2R5kHs=",
+  "Hash": "lmACB7D+JuteVd/JzsS8d2Bmg2PgX0GdRNSjZP0P+DM=",
   "Source": "myproject",
   "BasePath": "_content/myproject",
   "Mode": "Default",
@@ -85,6 +85,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jfif",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/images.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\images.jfif"
+    },
+    {
       "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jpg",
       "SourceId": "myproject",
       "SourceType": "Discovered",
@@ -100,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\images.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\moni.jfif",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/moni.jfif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\moni.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\scenery.jpg",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/scenery.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\scenery.jpg"
     },
     {
       "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\js\\site.js",

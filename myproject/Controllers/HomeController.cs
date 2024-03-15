@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
 using myproject.Models;
 
 namespace myproject.Controllers;
@@ -12,6 +13,10 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
+
+    SqlConnection con =new SqlConnection();
+    SqlCommand com= new SqlCommand();
+    SqlDataReader dr;
 
     public IActionResult Index()
     {
@@ -39,7 +44,9 @@ public class HomeController : Controller
     {
         return View();
     }
-
+    void connectionString(){
+        con.connectionString"data source=192.168.1.240\SQLEXPRESS;database:cad_oos_shop;userid:CADBATCH01;password:CAD@123;TrustCertificate=True";
+    }
 
       public IActionResult register()
     {

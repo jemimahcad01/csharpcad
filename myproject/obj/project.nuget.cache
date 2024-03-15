@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xam4J1XvK1chm21i/do/TCe2cBgX/htANhOZkgiuJgTbMM6IEiTj/0CxRegiz3udi4+/qJV5yPgOuhZAau/iMA==",
+  "dgSpecHash": "bXC4PNoAIkhp8LspZaF3FcwlAthyDU2i87aQorcfr6lcYpjfucv3QWYEsi2XOyM7DBeGzYM/zei5jwhTk0/5NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\myproject.csproj",
+  "projectFilePath": "c:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\myproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jemimahcad01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\jemimahcad01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

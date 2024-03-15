@@ -13,8 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jfif",
+      "PackagePath": "staticwebassets\\images\\images.jfif"
+    },
+    {
       "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jpg",
       "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\moni.jfif",
+      "PackagePath": "staticwebassets\\images\\moni.jfif"
+    },
+    {
+      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\scenery.jpg",
+      "PackagePath": "staticwebassets\\images\\scenery.jpg"
     },
     {
       "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\js\\site.js",
