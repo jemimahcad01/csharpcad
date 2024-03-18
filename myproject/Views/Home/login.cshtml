@@ -1,11 +1,11 @@
 @{
     ViewData["Title"] = "login";
 }
-<br><br>
-<center>
+<form action="VerifyLogin" method="Post">
 
+<center>
 <div class="shadow p-3 mb-5 bg-body-tertiary rounded logpg"><b>Login</b>
- <br><br>
+<br><br>
 <div class="col-lg-5 col-xl-5 logcontent">
 <div class="shadow p-3 mb-5 bg-body-tertiary rounded">
 @* <div class="mb-3">
@@ -16,21 +16,22 @@
 
 <div class="mb-3">
     <label for="exampleInputusername"class="form-label">username</label>
-    <input type="username" name="username" class="form-control" id="exampleInputusername">
-  </div>
+    <input type="text" name="username" class="form-control" id="exampleInputusername">
+</div>
 
 <div class="mb-3">
     <label for="exampleInputPassword1"class="form-label">Password</label>
-    <input type="password" name="password" class="form-control" id="exampleInputPassword1">
-  </div>
+    <input type="text" name="password" class="form-control" id="exampleInputPassword1">
+</div>
   
-  <div class="mb-3 form-check">
+<div class="mb-3 form-check">
     <input type="checkbox" class="form-check-input" id="exampleCheck1">
     <label class="form-check-label" for="exampleCheck1">Remember me</label>
-  </div>
-  <center><button type="submit" class="btn btn-primary">Submit</button></center>
+</div>
+<center><button type="submit" class="btn btn-primary">Submit</button></center>
 
 </div>
 </div>
 </center>
 </div>
+</form>

@@ -45,7 +45,7 @@ public class HomeController : Controller
     }
     void ConnectionString()
     {
-    con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS;database:cad_oos_shop;userid:CADBATCH01;password:CAD@123;TrustCertificate=True;";
+    con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database:cad_oos_shop; User Id:CADBATCH01; Password:CAD@123pass; TrustServerCertificate=True;";
     }
 
     [HttpPost]
@@ -53,7 +53,7 @@ public class HomeController : Controller
         ConnectionString();
         con.Open();
         com.Connection=con;
-        com.CommandText="select*from where loginuser username='"+ lmodel.username +"'+and password ='" + lmodel.password +"';";
+        com.CommandText="select*from loginuser where username='"+ lmodel.username +"'+and password ='" + lmodel.password +"';";
         dr=com.ExecuteReader();
         if(dr.Read())
         {

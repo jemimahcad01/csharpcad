@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myproject
 build_property.RootNamespace = myproject
-build_property.ProjectDir = c:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\myproject\
+build_property.ProjectDir = C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\myproject\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = c:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\myproject
+build_property.MSBuildProjectDirectory = C:\Users\jemimahcad01\Desktop\CADBATCH\dotnet\csharpcad\myproject
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/aboutus.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/aboutus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhYm91dHVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/contactus.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/contactus.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0dXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/error.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxlcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/Index.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/login.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/ourservice.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/ourservice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxvdXJzZXJ2aWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/Privacy.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/register.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/success.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Home/success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzdWNjZXNzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Shared/Error.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/_ViewImports.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/_ViewStart.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Shared/_Layout.cshtml]
+[C:/Users/jemimahcad01/Desktop/CADBATCH/dotnet/csharpcad/myproject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v66k6psnl1

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lmACB7D+JuteVd/JzsS8d2Bmg2PgX0GdRNSjZP0P+DM=",
+  "Hash": "rAwluesyQp5Im/uMNLFTjnj9PdvRvwfcRxxtkvTXkME=",
   "Source": "myproject",
   "BasePath": "_content/myproject",
   "Mode": "Default",
@@ -119,12 +119,12 @@
       "OriginalItemSpec": "wwwroot\\images\\images.jpg"
     },
     {
-      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\moni.jfif",
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\kalyan.jpg",
       "SourceId": "myproject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
       "BasePath": "_content/myproject",
-      "RelativePath": "images/moni.jfif",
+      "RelativePath": "images/kalyan.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,7 +133,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\moni.jfif"
+      "OriginalItemSpec": "wwwroot\\images\\kalyan.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\moni.jpg",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/moni.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\moni.jpg"
     },
     {
       "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\scenery.jpg",

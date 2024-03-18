@@ -21,8 +21,12 @@
       "PackagePath": "staticwebassets\\images\\images.jpg"
     },
     {
-      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\moni.jfif",
-      "PackagePath": "staticwebassets\\images\\moni.jfif"
+      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\kalyan.jpg",
+      "PackagePath": "staticwebassets\\images\\kalyan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\moni.jpg",
+      "PackagePath": "staticwebassets\\images\\moni.jpg"
     },
     {
       "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\scenery.jpg",
