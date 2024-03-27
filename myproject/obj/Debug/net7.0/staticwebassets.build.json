@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qvijYXSbUUA5GeapxMs4iPjTDd0LNYT0vwC7Ti7AdkU=",
+  "Hash": "r4F2v7uHPg9kDIto5nUpO066xKgKS17tCezvm3Bzymo=",
   "Source": "myproject",
   "BasePath": "_content/myproject",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\can.png",
+      "SourceId": "myproject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\",
+      "BasePath": "_content/myproject",
+      "RelativePath": "images/can.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\can.png"
     },
     {
       "Identity": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jfif",

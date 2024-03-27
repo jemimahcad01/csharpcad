@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\can.png",
+      "PackagePath": "staticwebassets\\images\\can.png"
+    },
+    {
       "Id": "C:\\Users\\jemimahcad01\\Desktop\\CADBATCH\\dotnet\\csharpcad\\myproject\\wwwroot\\images\\images.jfif",
       "PackagePath": "staticwebassets\\images\\images.jfif"
     },
