@@ -19,6 +19,10 @@ public class LoginController : Controller
     SqlCommand com= new SqlCommand();
     SqlDataReader? dr;
 
+    
+    void ConnectionString(){
+        con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=cad_oos_shop; User ID=CADBATCH01; Password=CAD@123pass; TrustServerCertificate=True; ";
+    }
     public IActionResult Index()
     {
         return View();
@@ -40,10 +44,36 @@ public class LoginController : Controller
     {
         return View();
     }
+
+    [HttpGet]
     public IActionResult login()
     {
         return View();
     }
+
+    [HttpPost]
+    public IActionResult LoginDB(LoginModel lmodel){
+    ConnectionString();
+        con.Open();
+        com.Connection=con;
+        com.CommandText="select * from loginuser where username=@username and password=@password";
+        com.Parameters.AddWithValue("@username",lmodel.username);
+        com.Parameters.AddWithValue("@password",lmodel.password);
+        int rowAffected=com.ExecuteNonQuery();
+        if(rowAffected>0)
+        {
+            con.Close();
+            return RedirectToAction("Index");
+        }
+        else
+        {
+            con.Close();
+            return View("Error");
+        }
+    }
+
+
+
 
     [HttpGet]
     public IActionResult register()
@@ -51,11 +81,27 @@ public class LoginController : Controller
         return View();
     }
     
-
-    public IActionResult registerDB()
-    {
-        return View();
+    [HttpPost]
+    public IActionResult registerDB(RegisterModel rmodel){
+    ConnectionString();
+        con.Open();
+        com.Connection=con;
+        com.CommandText="insert into reg_user(username,Phone_number,email_id,password) values (@username,@Phone_number,@email_id,@password) ";
+        com.Parameters.AddWithValue("@username",rmodel.username);
+        com.Parameters.AddWithValue("@Phone_number",rmodel.Phone_number);
+        com.Parameters.AddWithValue("@email_id",rmodel.email_id);
+        com.Parameters.AddWithValue("@password",rmodel.password);
+        int rowAffected=com.ExecuteNonQuery();
+        if(rowAffected>0){
+            con.Close();
+            return RedirectToAction("Login");
+        }
+        else{
+            con.Close();
+            return View("Error");
+        }
     }
+
      public IActionResult error()
     {
         return View();

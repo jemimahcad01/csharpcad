@@ -2,7 +2,7 @@
     ViewData["Title"] = "register";
 }
 <br><br>
-<form>
+<form action="registerDB" method="Post">
 <center>
 
 <div class="shadow p-3 mb-5 bg-body-tertiary rounded"><b>Register</b>
@@ -13,13 +13,13 @@
 
 <div class="mb-3">
     <label for="exampleInputname" class="form-label">Name</label>
-    <input type="name"  name="" class="form-control" id="exampleInputname" aria-describedby="nameHelp">
+    <input type="name"  name="username" class="form-control" id="exampleInputname" aria-describedby="nameHelp">
     <div id="emailHelp" class="form-text"></div>
 </div>
 
 <div class="mb-3">
     <label for="exampleInputphonenymber"class="form-label">Phone number</label>
-    <input type="phonenumber" name="Phonenumber" class="form-control" id="exampleInputPhonenumber">
+    <input type="phonenumber" name="Phone_number" class="form-control" id="exampleInputPhonenumber">
   </div>
   
 <div class="mb-3">
@@ -29,7 +29,7 @@
   
 <div class="mb-3">
     <label for="exampleInputemail"class="form-label">Password</label>
-    <input type="password" name="Password" class="form-control" id="exampleInputemail">
+    <input type="password" name="password" class="form-control" id="exampleInputemail">
   </div>
   
   <div class="mb-3 form-check">
